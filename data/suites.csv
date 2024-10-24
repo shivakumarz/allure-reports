@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Oct 21 22:13:48 IST 2024","Mon Oct 21 22:15:00 IST 2024","71878","tests.mbid","test_new_action","","","","Create New Action",""
+"passed","Thu Oct 24 16:35:57 IST 2024","Thu Oct 24 16:37:00 IST 2024","63099","tests.metric","test_bulk_update","","","","Create Metric",""
+"passed","Mon Oct 21 15:39:30 IST 2024","Mon Oct 21 15:39:40 IST 2024","10701","","","","","","Create Metric",""
+"passed","Thu Oct 24 16:37:57 IST 2024","Thu Oct 24 16:38:33 IST 2024","35200","tests.metric_rollup","test_add_new_metric_rollup","","","","Create Metric_rollup",""
+"passed","Thu Oct 24 16:37:00 IST 2024","Thu Oct 24 16:37:57 IST 2024","57245","tests.metric","test_create_new_metric","","","","Create Metric",""
+"passed","Thu Oct 24 16:38:33 IST 2024","Thu Oct 24 16:39:16 IST 2024","43035","tests.metric_sets","test_add_new_metric_sets","","","","Create Metric_sets",""
